@@ -12,6 +12,10 @@ namespace PL
         {
 
             Console.WriteLine("primera version ");
+            
+            Console.WriteLine("Segunda version 2.0");
+
+            Console.WriteLine("Segunda version 3.0");
             Console.ReadKey();
         }
     }
